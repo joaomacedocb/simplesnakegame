@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: lightgreen;
+}
+
+.title {
+    color: green;
+    border: green 3px solid;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 5px;
+}
+
+.canvas-style {
+    border: green 3px solid;
+}
+
+.credito {
+    color: green;
+    font-style: italic;
+    margin-top: 5px;
+}
+
